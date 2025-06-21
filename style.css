@@ -1,5 +1,5 @@
 body {
-    background: url(https://i.ibb.co/tDTR7J4/negro.png)
+    background: url(https://u.cubeupload.com/Hater/colornegro.png)
 }
 
 .content {
@@ -690,8 +690,8 @@ body {
 	--MusicPlayer-Text-Line-Spacing: 4px;
 	
 	/*-- playback settings --*/
-	--MusicPlayer-Autoplay: "no";
-	--MusicPlayer-Replay: "no";
+	--MusicPlayer-Autoplay: "yes";
+	--MusicPlayer-Replay: "yes";
 	
 }/* don't delete this line */
 /*---- END MUSIC PLAYER ----*/
